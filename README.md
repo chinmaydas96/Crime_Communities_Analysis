@@ -13,9 +13,12 @@
 
 
 #### How to run :
-
+```
 `git clone https://github.com/chinmaydas96/Crime_Communities_Analysis.git`
 
 `cd Crime_Communities_Analysis`
 
 `jupyter-notebook Crime_prediction.ipynb`
+
+
+```
