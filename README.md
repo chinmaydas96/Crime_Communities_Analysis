@@ -1,8 +1,11 @@
 # Crime And Communities Analysis and Prediction
 
 
-In this Project, I analyse the crime and communities dataset.
+In this Project, I analyse the crime and communities dataset using EDA and Regression techniques.
+
 [Link to the dataset](http://archive.ics.uci.edu/ml/datasets/communities+and+crime)
+
+[Medium Write up](https://medium.com/@chinmaydas96/communities-and-crime-analysis-and-prediction-be6100ca6790) 
 
 #### Requirements libraries for run:
 
@@ -24,5 +27,7 @@ cd Crime_Communities_Analysis
 jupyter-notebook Crime_prediction.ipynb
 
 ```
+
+
 
 
